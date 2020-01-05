@@ -1,0 +1,98 @@
+.body {
+    background-color: rgb(164, 164, 165);
+}
+/* navbar */
+.the-navbar {
+    color: #777777;
+}
+/*header name*/
+.name {
+    background: #4aaaa5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#ffffff;
+    padding: 15px;
+}
+:active {
+    background-color: #4aaaa5;
+    color: white;
+}
+:hover {
+    color: #4aaaa5;
+}
+
+/* About */
+.container {
+    width: 50%;
+    margin-left: 220px;
+    padding-bottom: 120px;
+}
+.hr {
+    border: outset;
+}
+/* content heading */
+.content-heading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4AAAA5;
+    margin: 30px;
+    margin-top: 8px;
+    padding-top: 30px;
+    margin-left: 40px;
+}
+/* profile image */
+.profile {
+    margin-top: 5%;
+    width: 100%;
+    margin-bottom: 5%;
+}
+.paragraph {
+    margin: 5px;
+    margin-top: 0px;
+    text-indent: 30px;
+}
+
+
+/* contact */
+#validationTextarea {
+    padding: 100px;
+    
+}
+.btn {
+    background-color: #4AAAA5;
+    color: #ffffff;
+}
+
+
+/* portfolio */
+.row {
+margin: 40px;
+margin-top: 40px;
+}
+/* .img-thumbnail {
+    margin-bottom: 40px;
+    justify-content: space-around;
+    align-items: around;
+} */
+.port-image {
+    position: relative;
+    margin-bottom: 50px;
+
+}
+.the-label {
+    position: absolute;
+    text-align: center;
+    background: #4aaaa5;
+    color: white;
+    height: 45px;
+    width: 250px;
+    top: 140px;
+    right: 37px;
+}
+/* footer */
+.footer {
+    padding: 20px;
+    margin-top: 30%;
+    background: #666666;
+    border-top: 8px solid;
+    border-top-color: #4aaaa5;
+    border-top-width: 5px;
+}
