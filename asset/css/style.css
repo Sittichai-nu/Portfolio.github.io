@@ -23,7 +23,7 @@
 /* About */
 .container {
     width: 50%;
-    margin-left: 220px;
+    margin-left: 20%;
     padding-bottom: 120px;
 
 }
@@ -62,6 +62,9 @@
     color: #ffffff;
 }
 /* portfolio */
+#link {
+    color: white;
+}
 .tx {
     position: absolute;
     background-color:  #4aaaa5;
