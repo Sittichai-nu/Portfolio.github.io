@@ -5,7 +5,7 @@ $(document).ready(function(){
          + 
          '<div><a id="link" href="https://github.com/leola90/eventspite">Event Spite-Github</a></div>'
          +
-         '<a id="link" href=https://thawing-wave-27550.herokuapp.com/">Vaendio</a>'
+         '<a id="link" href=https://thawing-wave-27550.herokuapp.com>Vaendio</a>'
          + 
          '<div><a id="link" href="https://github.com/CinnaStar12/Vaendio">Vaendio-Github</a></div>');
         
