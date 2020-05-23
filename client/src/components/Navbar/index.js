@@ -10,7 +10,6 @@ function Navbar() {
         <a className="about" href="/">About</a>
         <a className="portfolio" href="/Portfolio">Portfolio</a>
         <a className="contact" href="/Contact">Contact</a>
-        <a className="contact" href="/Gallery">Example</a>
       </div>
     </nav>
   );
