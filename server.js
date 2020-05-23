@@ -1,6 +1,5 @@
 const express = require("express");
 const path = require("path");
-const mongoose = require("mongoose");
 const app = express();
 const PORT = process.env.PORT || 3001;
 
@@ -16,8 +15,7 @@ app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "./client/build/index.html"));
 });
 
-// Connect to the Mongo DB
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/portfolio");
+
 
 // Start the API server
 app.listen(PORT, function() {
