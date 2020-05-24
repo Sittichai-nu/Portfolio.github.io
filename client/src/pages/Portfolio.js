@@ -1,9 +1,9 @@
 import React from "react";
 import ln from "../assets/images/ln.png"
-import Profile from "../assets/images/profile.jpg"
 import Code from "../assets/images/codequiz.jpg"
 import Git from "../assets/images/git.png"
 import Password from "../assets/images/password.png"
+import Beach from '../assets/images/beach.jpg'
 
 
 
@@ -35,7 +35,7 @@ const Portfolio = () => {
                 </tr>
                 <tr class="row">
                     <td>
-                    <img className="col-bg-4 com-me-6 col-xs-12 im img-thumbnail" src={Profile}alt=""></img>
+                    <img className="col-bg-4 com-me-6 col-xs-12 im img-thumbnail" src={Beach}alt=""></img>
                     <div className="tx">Projects</div>
                     </td>
                     <td>
@@ -45,7 +45,7 @@ const Portfolio = () => {
                 </tr>
                 <tr class="row">
                     <td>
-                    <img className="col-bg-4 com-me-6 col-xs-12 im img-thumbnail" src={Profile}alt=""></img>
+                    <img className="col-bg-4 com-me-6 col-xs-12 im img-thumbnail" src={Beach}alt=""></img>
                     <div className="tx"><a id="link" href="https://afternoon-eyrie-97010.herokuapp.com/">Fitness Tracker</a></div>
                     </td>
                     <td>
