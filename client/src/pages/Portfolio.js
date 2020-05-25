@@ -5,6 +5,8 @@ import Git from "../assets/images/git.png";
 import Password from "../assets/images/password.png";
 import Beach from "../assets/images/beach.jpg";
 import Event from "../assets/images/event.png";
+import Ski from "../assets/images/ski.jpg";
+
 
 const Portfolio = () => {
   return (
@@ -80,7 +82,7 @@ const Portfolio = () => {
           <td>
             <img
               className='col-bg-4 com-me-6 col-xs-12 im img-thumbnail'
-              src={Beach}
+              src={Ski}
               alt=''
             ></img>
             <div className='tx'>
